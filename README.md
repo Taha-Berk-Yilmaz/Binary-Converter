@@ -1,9 +1,9 @@
-# Binary_Converter
+# Binary-Converter
  This program converts between binary, numbers and strings.
  
 # Installation
 ```python
-git clone https://github.com/Taha-Berk-Yilmaz/Binary_Converter.git
+git clone https://github.com/Taha-Berk-Yilmaz/Binary-Converter.git
 pip install -r requirements.txt
 ```
 # Usage
